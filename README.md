@@ -43,7 +43,7 @@ After starting React Project
 
 
 
-Application Desgine part and Output Screenshot in the folder(folder Name= Planing & Output)
+Application Desgine part and Output Screenshot( Planing & Output)
 
 ![Delete_User](https://github.com/TrickAndTrack/Salon-Back-aap/assets/73180409/acc1e60d-a9dc-4086-b756-ac8c420ab20c)
 ![Get_Users](https://github.com/TrickAndTrack/Salon-Back-aap/assets/73180409/ff813465-e882-4a15-9443-35c9bb1088e2)
